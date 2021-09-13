@@ -12,6 +12,10 @@ public class Main {
 		this.customer = customer;
 		this.Machine = Machine; 
 	}
+
+	Main m = new Main(ct, mt);
+	m.customer;
+	m.machine; 이렇게 사용함
 	*/
 	 
 	public static void main(String[] args) {
